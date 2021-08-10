@@ -4,4 +4,4 @@
 - 👀 I’m interested in Web Designing , Graphic Designing ,Sketching , Painting ,Video editing and Currently Learning Ethical Hacking.
 - 😇 Totally lose myself while sketching or working towards my passion
 - 📫 How to reach me : jayeshduttbohra@gmail.com 
-- 👾 My Website : https://bohradjayesh.github.io/
+- 👾 Portfolio : https://bohradjayesh.github.io/
