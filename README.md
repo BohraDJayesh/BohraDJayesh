@@ -43,7 +43,7 @@ Projects Currenly I'm working on.
 
 | `Log File Analyzer` | `Website Builder` |
 | --- |  --- |
-| ![Ocean](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/NFUN.jpg) | ![Dark](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/Website-Builder.jpg) |
+| ![Ocean](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/LFA.png) | ![Dark](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/WB2.png) |
 
 ## GitHub Stats
 <p>
