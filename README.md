@@ -35,15 +35,15 @@ A lifelong learner in various fields, and I have no plans to stop exploring. I e
 
 You can find my projects I have worked on and on projects i'm currently working on here.
 
-| `Log File Analyzer` | `IDS - Framework` |
+| `SARV - A vim like text editor for windows` | `IDS - Framework` |
 | --- |  --- |
-| ![Default](https://unsplash.com/photos/captcha-cvBBO4PzWPg) | ![Forest](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/IDS.png) |
+| ![Default](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/Sarv.png) | ![Forest](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/IDS.png) |
 
 Projects Currenly I'm working on.
 
-| `SARV - A vim like text editor for windows` | `Website Builder` |
+| `Log File Analyzer` | `Website Builder` |
 | --- |  --- |
-| ![Ocean](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/Sarv.png) | ![Dark](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/Website-Builder.jpg) |
+| ![Ocean](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/NFUN.jpg) | ![Dark](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/Website-Builder.jpg) |
 
 ## GitHub Stats
 <p>
