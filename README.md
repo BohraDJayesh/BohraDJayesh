@@ -35,15 +35,15 @@ A lifelong learner in various fields, and I have no plans to stop exploring. I e
 
 You can find my projects I have worked on and on projects i'm currently working on here.
 
-| `Log File Analyzer` | `Website Builder` | `IDS - Framework` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+| `Log File Analyzer` | `IDS - Framework` |
+| --- |  --- |
+| ![Default](https://unsplash.com/photos/captcha-cvBBO4PzWPg) | ![Forest](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/IDS.png) |
 
 Projects Currenly I'm working on.
 
-| `SARV - A vim like text editor for windows` | `A ŚeraGÓta` |
+| `SARV - A vim like text editor for windows` | `Website Builder` |
 | --- |  --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) |
+| ![Ocean](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/Sarv.png) | ![Dark](https://github.com/BohraDJayesh/BohraDJayesh/blob/main/Website-Builder.jpg) |
 
 ## GitHub Stats
 <p>
