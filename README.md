@@ -1,11 +1,17 @@
 
-### Hi there, I'm Jayesh Dutt Bohra -  A mere Btech student, like any other young individual on this planet, but driven by curiosity, exploration, and elucidation.
-
-I am Jayesh Dutt Bohra currently in my final year of my undergraduate program : BTech in CS&E with Specialization in Cyber Security from  **Rashtriya Raksha University**.
+### Hi there, I'm Jayesh Dutt Bohra
+A mere Btech student, like any other young individual on this planet, but driven by curiosity, exploration, and elucidation.<br>
+A lifelong learner in various fields, and I have no plans to stop exploring. I enjoy demonstrating things, whether they're naturally interesting or not, because if there's something fascinating to showcase, I'm all in. 
 
 ```javascript
 (() => console.log('Excelsior'))();
 ```
+
+## HackTheBox Stats
+![jayeshinfo](http://www.hackthebox.eu/badge/image/395271)
+
+## THM Stats
+![jayeshthm](https://tryhackme-badges.s3.amazonaws.com/TheMaxFort.png)
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/jayesh-dutt-bohra/" target="_blank">
@@ -36,17 +42,11 @@ You can find my projects I have worked on and on projects i'm currently working 
 Projects Currenly I'm working on.
 
 | `SARV - A vim like text editor for windows` | `A ŚeraGÓta` |
-| --- |  --- | --- |
+| --- |  --- |
 | ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) |
-
 
 ## GitHub Stats
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=bohradjayesh&theme=onedark&no-frame=true&column=7" />
 </p>
 
-## HackTheBox Stats
-![jayeshinfo](http://www.hackthebox.eu/badge/image/395271)
-
-## THM Stats
-![jayeshthm](<img src="https://tryhackme-badges.s3.amazonaws.com/TheMaxFort.png" alt="TryHackMe">)
