@@ -17,7 +17,7 @@ A lifelong learner in various fields, and I have no plans to stop exploring. I e
 <a href="https://www.linkedin.com/in/jayesh-dutt-bohra/" target="_blank">
   <img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
-<a href="https://twitter.com/bohrajayesh" target="_blank">
+<a href="https://twitter.com/bohra_jayesh" target="_blank">
   <img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
 </a>
 <a href="https://bohrajayesh.medium.com/" target="_blank">
